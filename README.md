@@ -11,6 +11,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
@@ -40,4 +41,9 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 <!---LeetCode Topics End-->
