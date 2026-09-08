@@ -22,6 +22,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
