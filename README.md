@@ -10,6 +10,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0414-third-maximum-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -74,6 +75,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
