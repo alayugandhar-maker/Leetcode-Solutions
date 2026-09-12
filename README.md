@@ -28,6 +28,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0392-is-subsequence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,4 +91,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
