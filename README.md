@@ -12,6 +12,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0414-third-maximum-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -32,6 +33,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
