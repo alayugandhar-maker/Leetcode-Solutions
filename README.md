@@ -19,6 +19,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -120,6 +121,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0643-maximum-average-subarray-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
