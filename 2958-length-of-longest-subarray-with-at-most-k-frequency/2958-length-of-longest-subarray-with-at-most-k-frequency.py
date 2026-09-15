@@ -9,6 +9,8 @@ class Solution:
             d[nums[r]]=d.get(nums[r],0)+1
             while d[nums[r]]>k:
                 d[nums[l]]-=1 
+                if d[nums[l]]==0:
+                    del d[nums[l]]
                 l+=1
             maxlen=max(maxlen,r-l+1)
              
