@@ -32,6 +32,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -51,11 +52,13 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3870-count-commas-in-range](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -128,6 +131,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
