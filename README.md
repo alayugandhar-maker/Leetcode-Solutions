@@ -46,6 +46,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -99,6 +100,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0392-is-subsequence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +137,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
