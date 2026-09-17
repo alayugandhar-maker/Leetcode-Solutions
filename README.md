@@ -36,6 +36,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -57,6 +58,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
