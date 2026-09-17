@@ -41,6 +41,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,4 +180,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
