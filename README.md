@@ -29,6 +29,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -57,6 +58,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -139,6 +141,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Bubble Sort
