@@ -128,6 +128,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3110-score-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
