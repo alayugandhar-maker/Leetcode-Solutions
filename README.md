@@ -30,6 +30,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -132,6 +133,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
