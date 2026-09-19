@@ -38,6 +38,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -207,4 +208,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 <!---LeetCode Topics End-->
