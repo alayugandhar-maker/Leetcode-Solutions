@@ -218,6 +218,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
