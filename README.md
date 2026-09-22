@@ -32,6 +32,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -247,6 +248,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Backtracking
