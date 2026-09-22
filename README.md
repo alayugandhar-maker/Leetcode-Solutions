@@ -17,6 +17,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0643-maximum-average-subarray-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -63,6 +64,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -234,4 +236,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
