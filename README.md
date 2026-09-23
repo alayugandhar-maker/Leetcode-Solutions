@@ -58,6 +58,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -136,6 +137,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Counting Sort
