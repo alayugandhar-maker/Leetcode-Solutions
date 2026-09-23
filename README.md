@@ -275,6 +275,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
