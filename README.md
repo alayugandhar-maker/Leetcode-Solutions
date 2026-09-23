@@ -132,6 +132,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0287-find-the-duplicate-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -162,6 +163,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -282,4 +284,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
