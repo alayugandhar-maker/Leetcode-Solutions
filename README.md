@@ -9,6 +9,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0001-two-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -280,6 +281,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
