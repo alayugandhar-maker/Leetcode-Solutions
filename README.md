@@ -79,6 +79,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -166,6 +167,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0344-reverse-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0709-to-lower-case](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
@@ -202,6 +204,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
