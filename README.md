@@ -47,6 +47,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -113,6 +114,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -278,6 +280,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Backtracking
@@ -289,6 +292,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
