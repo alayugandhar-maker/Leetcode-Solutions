@@ -64,6 +64,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -170,6 +171,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String
@@ -210,6 +212,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1200-minimum-absolute-difference](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -331,4 +334,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
