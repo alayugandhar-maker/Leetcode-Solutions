@@ -35,6 +35,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1389-create-target-array-in-the-given-order](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1528-shuffle-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -189,6 +190,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1108-defanging-an-ip-address](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1528-shuffle-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
