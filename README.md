@@ -78,6 +78,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3895-count-digit-appearances](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
@@ -122,6 +123,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3870-count-commas-in-range](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
