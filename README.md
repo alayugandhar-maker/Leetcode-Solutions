@@ -200,6 +200,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -349,9 +350,14 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
