@@ -52,6 +52,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -109,6 +110,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -216,6 +218,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -257,6 +260,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bubble Sort
