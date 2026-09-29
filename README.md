@@ -213,6 +213,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
