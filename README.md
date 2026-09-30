@@ -67,6 +67,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -223,6 +224,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2716-minimize-string-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
