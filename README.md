@@ -199,6 +199,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -371,6 +372,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Heap (Priority Queue)
@@ -380,6 +382,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
