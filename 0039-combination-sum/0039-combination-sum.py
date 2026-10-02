@@ -1,18 +1,18 @@
 class Solution:
     def combinationSum(self, arr: list[int], target: int) -> list[list[int]]:
-        ans=[]
-        lst=[]
-        back(0,arr,ans,lst,target)
-        return ans 
+       ans=[]
+       lst=[]
+       combo(0,ans,lst,arr,target)
+       return ans
 
-def back(idx,arr,ans,lst,target):
+
+def combo(idx,ans,lst,arr,target):
     if idx==len(arr):
         if target==0:
             ans.append(lst.copy())
-        return
-    if(arr[idx]<=target):
+        return 
+    if arr[idx]<=target:
         lst.append(arr[idx])
-        back(idx,arr,ans,lst,target-arr[idx])
+        combo(idx,ans,lst,arr,target-arr[idx])
         lst.pop()
-    back(idx+1,arr,ans,lst,target)
-        
+    combo(idx+1,ans,lst,arr,target)
