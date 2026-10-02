@@ -47,6 +47,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1720-decode-xored-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -254,6 +255,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0414-third-maximum-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -410,4 +412,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0051-n-queens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
