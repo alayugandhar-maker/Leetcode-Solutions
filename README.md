@@ -11,6 +11,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -363,6 +364,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0022-generate-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
@@ -401,4 +403,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
