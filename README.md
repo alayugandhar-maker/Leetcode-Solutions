@@ -52,6 +52,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1920-build-array-from-permutation](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
@@ -116,6 +117,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -153,6 +155,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
