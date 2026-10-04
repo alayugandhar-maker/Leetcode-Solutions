@@ -35,6 +35,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -143,6 +144,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
