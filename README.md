@@ -230,6 +230,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0709-to-lower-case](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -352,6 +353,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -413,6 +415,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Heap (Priority Queue)
@@ -424,6 +427,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
