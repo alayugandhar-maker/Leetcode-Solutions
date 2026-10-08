@@ -74,6 +74,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -355,6 +356,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Database
