@@ -30,6 +30,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -273,6 +274,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -290,6 +292,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -426,6 +429,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -448,4 +452,20 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
