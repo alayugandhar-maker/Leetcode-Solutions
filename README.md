@@ -233,6 +233,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -291,6 +292,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1051-height-checker](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -355,6 +357,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
