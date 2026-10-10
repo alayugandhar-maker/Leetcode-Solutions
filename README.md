@@ -73,6 +73,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -132,6 +133,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -205,6 +207,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -349,6 +352,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
