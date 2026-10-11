@@ -124,6 +124,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
@@ -251,6 +252,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1816-truncate-sentence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -304,6 +306,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1221-split-a-string-in-balanced-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
