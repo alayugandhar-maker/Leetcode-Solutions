@@ -4,14 +4,14 @@ class Solution:
         l=0
         r=0
         maxlen=0
-        hasht=[-1]*(256)
+        lst=[-1]*(256)
         while(r<n):
-            if hasht[ord(s[r])]!=-1:
-                if hasht[ord(s[r])]>=l:
-                    l=hasht[ord(s[r])]+1
+            if lst[ord(s[r])]!=-1:
+                if lst[ord(s[r])]>=l:
+                    l=lst[ord(s[r])]+1
             le=r-l+1
             maxlen=max(maxlen,le)
-            hasht[ord(s[r])]=r
+            lst[ord(s[r])]=r
             r+=1 
         return maxlen
 
