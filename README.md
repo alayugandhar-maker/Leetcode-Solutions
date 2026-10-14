@@ -150,6 +150,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
