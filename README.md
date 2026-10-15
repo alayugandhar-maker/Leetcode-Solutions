@@ -86,6 +86,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2974-minimum-number-game](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
@@ -140,6 +141,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2956-find-common-elements-between-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -312,6 +314,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bubble Sort
