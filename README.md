@@ -27,6 +27,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0643-maximum-average-subarray-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -358,6 +359,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0209-minimum-size-subarray-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
