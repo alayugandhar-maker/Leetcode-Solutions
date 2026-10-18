@@ -93,6 +93,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3131-find-the-integer-added-to-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
@@ -148,6 +149,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -320,6 +322,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bubble Sort
