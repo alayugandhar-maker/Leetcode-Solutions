@@ -9,6 +9,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0001-two-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
@@ -361,6 +362,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
