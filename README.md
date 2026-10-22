@@ -138,6 +138,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -273,6 +274,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2716-minimize-string-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
@@ -325,6 +327,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
