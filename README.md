@@ -161,6 +161,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -366,6 +367,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0033-search-in-rotated-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -506,4 +508,8 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
