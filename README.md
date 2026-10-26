@@ -109,6 +109,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -158,6 +159,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3483-unique-3-digit-even-numbers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -334,6 +336,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
