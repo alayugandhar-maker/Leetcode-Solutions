@@ -10,8 +10,8 @@ class Solution:
                 ans=min(ans,nums[low])
                 low=mid+1
             else:
-                ans=min(ans,nums[mid])
                 high=mid-1
+                ans=min(ans,nums[mid])
         return ans
 
         
