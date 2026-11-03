@@ -114,6 +114,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3683-earliest-time-to-finish-one-task](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -180,6 +181,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3618-split-array-by-prime-indices/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3895-count-digit-appearances/) | Medium |
