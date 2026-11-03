@@ -13,6 +13,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -125,6 +126,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0001-two-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
