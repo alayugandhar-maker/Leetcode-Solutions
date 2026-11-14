@@ -105,6 +105,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -215,6 +216,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1732-find-the-highest-altitude](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2799-count-complete-subarrays-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
