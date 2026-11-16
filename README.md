@@ -31,6 +31,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -395,6 +396,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
