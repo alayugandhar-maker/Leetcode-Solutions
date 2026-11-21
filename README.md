@@ -95,6 +95,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2951-find-the-peaks](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -200,6 +201,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
+| [2951-find-the-peaks](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Number Theory
