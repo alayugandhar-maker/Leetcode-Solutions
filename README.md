@@ -39,6 +39,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -403,6 +404,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [0540-single-element-in-a-sorted-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
