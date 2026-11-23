@@ -56,6 +56,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1394-find-lucky-integer-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1528-shuffle-string](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -409,6 +410,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1004-max-consecutive-ones-iii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
