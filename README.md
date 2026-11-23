@@ -82,6 +82,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [2161-partition-array-according-to-given-pivot](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2367-number-of-arithmetic-triplets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -222,6 +223,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
@@ -384,6 +386,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -412,6 +415,7 @@ Python solutions to LeetCode problems for practicing DSA and problem solving.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/alayugandhar-maker/Leetcode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
